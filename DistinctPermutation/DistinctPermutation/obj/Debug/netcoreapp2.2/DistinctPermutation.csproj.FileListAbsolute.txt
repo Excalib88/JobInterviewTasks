@@ -1,0 +1,11 @@
+C:\Users\Пользователь\source\repos\DistinctPermutation\DistinctPermutation\bin\Debug\netcoreapp2.2\DistinctPermutation.deps.json
+C:\Users\Пользователь\source\repos\DistinctPermutation\DistinctPermutation\bin\Debug\netcoreapp2.2\DistinctPermutation.runtimeconfig.json
+C:\Users\Пользователь\source\repos\DistinctPermutation\DistinctPermutation\bin\Debug\netcoreapp2.2\DistinctPermutation.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos\DistinctPermutation\DistinctPermutation\bin\Debug\netcoreapp2.2\DistinctPermutation.dll
+C:\Users\Пользователь\source\repos\DistinctPermutation\DistinctPermutation\bin\Debug\netcoreapp2.2\DistinctPermutation.pdb
+C:\Users\Пользователь\source\repos\DistinctPermutation\DistinctPermutation\obj\Debug\netcoreapp2.2\DistinctPermutation.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\DistinctPermutation\DistinctPermutation\obj\Debug\netcoreapp2.2\DistinctPermutation.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\DistinctPermutation\DistinctPermutation\obj\Debug\netcoreapp2.2\DistinctPermutation.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\DistinctPermutation\DistinctPermutation\obj\Debug\netcoreapp2.2\DistinctPermutation.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\DistinctPermutation\DistinctPermutation\obj\Debug\netcoreapp2.2\DistinctPermutation.dll
+C:\Users\Пользователь\source\repos\DistinctPermutation\DistinctPermutation\obj\Debug\netcoreapp2.2\DistinctPermutation.pdb
