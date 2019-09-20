@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionEngine", "ExpressionEngine\ExpressionEngine.csproj", "{05AE9652-F8AD-41E7-9FB6-20E9A1150F1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05AE9652-F8AD-41E7-9FB6-20E9A1150F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05AE9652-F8AD-41E7-9FB6-20E9A1150F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05AE9652-F8AD-41E7-9FB6-20E9A1150F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05AE9652-F8AD-41E7-9FB6-20E9A1150F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40C4B91E-F44B-4BB1-AF9F-E98861BE14BB}
+	EndGlobalSection
+EndGlobal
